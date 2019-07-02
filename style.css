@@ -1,0 +1,132 @@
+body{
+
+position: absolute;
+
+left : 380px;
+
+margin-top: 45px;
+
+color:#454545;
+
+font-size:16px;
+
+max-width:800px;
+
+line-height:1.4;
+
+text-align:justify;
+
+
+
+}
+
+
+.invert{
+
+
+ filter: invert(100%);
+ -webkit-filter: invert(100%);
+background: black;
+
+}
+
+
+.contrast{
+
+filter: contrast(1.75);
+-webkit-filter: contrast(1.75);
+}
+
+.CSS3logo{
+
+object-fit: contain;
+
+height : 15px;
+}
+
+
+.jslogo{
+
+object-fit: contain;
+
+height: 15px;
+
+position: absolute;
+
+left : 100px;
+
+}
+
+.html5logo{
+
+object-fit: contain;
+
+height : 15px;
+
+position: absolute;
+
+left : 50px;
+}
+
+
+
+
+
+
+
+.js1{
+
+position: absolute;
+
+left : 1000px;
+
+width: 200px;
+
+top : -30px;
+
+cursor: pointer;
+}
+
+.js2{
+
+position: absolute;
+
+left : 1000px;
+
+top : 5px;
+
+width: 200px;
+
+cursor: pointer;
+
+background: black;
+
+width: 100px;
+
+color : white;
+
+text-align: center;
+
+}
+
+
+
+.wrong{
+
+color: red;
+
+
+
+
+}
+
+
+
+.paragraph1{
+
+width: 760px;
+
+
+
+
+}
